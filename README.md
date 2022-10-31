@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository to document my coding journey 
+This is my first repository to document my python code
